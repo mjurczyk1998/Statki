@@ -1,0 +1,5 @@
+___PL___
+Program ten jest autorką implementacją popularnej gry w statki. Napisany został jako aplikacja konsolowa. Projekt realizowałem w języku C++ podczas 1-go semestru studiów Informatyki (2019 r.) na Politechnice Śląskiej.
+
+___EN___
+This program is my implemetation of popular game warship war. I accomplished it in 2019 at 1st semester of my studies at Silesian Uniwersity of Technology. Program was writen in C++.
